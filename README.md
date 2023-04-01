@@ -24,16 +24,14 @@ A simple Python-based Telegram bot that allows users to monitor the status of Ce
 Input:
 
 <pre>
-```python
 12D3KooWMfJj8P5px6grkmsnFsaNX1M9E4iKh1cJYfQ3koXad8oQ
-```
 </pre>
 
-\`\`\`
+
 
 Output:
 
-\`\`\`
+<pre>
 💻 Celestia Node Information 💻
 
 🔗 Node ID: 12D3KooWMfJj8P5px6grkmsnFsaNX1M9E4iKh1cJYfQ3koXad8oQ
@@ -49,4 +47,4 @@ Output:
 🛠 Last Restart: 01/04/2023 03:01:12
 
 🔔 Stay on top of things! 🚀
-\`\`\`
+</pre>
