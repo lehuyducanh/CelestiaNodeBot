@@ -15,7 +15,7 @@ A simple Python-based Telegram bot that allows users to monitor the status of Ce
 
 ## Usage
 
-1. Add the bot to your Telegram account
+1. Add the bot to your Telegram Group, example group with bot: https://t.me/CelestiaTrackingwithBrian
 2. Send the Node ID (starting with "12D3" and 52 characters long) to the bot
 3. The bot will display the node information
 
